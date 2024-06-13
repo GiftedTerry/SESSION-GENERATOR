@@ -1,7 +1,7 @@
 {
-    "name": "Vibez-MD Session Generator",
-    "description": "I'm Web Session Generator by Itxx Me Wasi",
-    "logo": "",
+    "name": "Vibez-MD Session id",
+    "description": "A session id generator by Pro tech",
+    "logo": "https://telegra.ph/file/05fa2ad6723b906dec3ae.jpg",
     "keywords": ["@GiftedTerry"],
     "success_url": "/", 
     "buildpacks": [{ "url": "https://github.com/heroku/heroku-buildpack-nodejs#latest" } ],

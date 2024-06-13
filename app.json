@@ -2,7 +2,7 @@
     "name": "Vibez-MD Session Generator",
     "description": "I'm Web Session Generator by Itxx Me Wasi",
     "logo": "",
-    "keywords": ["@Xcelsama"],
+    "keywords": ["@GiftedTerry"],
     "success_url": "/", 
     "buildpacks": [{ "url": "https://github.com/heroku/heroku-buildpack-nodejs#latest" } ],
     "env": {      
